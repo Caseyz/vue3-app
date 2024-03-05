@@ -1,2 +1,3 @@
-# vue3-app
-vue3 app
+# Vue 3 + Vite
+
+app
